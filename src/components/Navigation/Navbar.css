@@ -1,0 +1,25 @@
+.nav{
+    background-color: turquoise;
+    height: 50px;
+    padding: 10px;
+    font-size: large;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.nav ul li{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    margin-top: 5px;
+}
+
+.badge{
+    padding: 3px 10px;
+    background-color: rgb(14, 82, 78);
+    margin-left: 5px;
+    border-radius: 1rem;
+}

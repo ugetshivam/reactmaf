@@ -1,0 +1,12 @@
+/* .product-list{
+    display: flex;
+    justify-content: space-around;
+} */
+
+.product-list {
+    display : flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
